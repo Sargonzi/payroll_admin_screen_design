@@ -29,6 +29,12 @@
     <!-- Pace Page Loader -->
     <link rel="stylesheet" href="vendor/pace/themes/blue/pace-theme-loading-bar.css" type="text/css">
 
+    <!-- Select2 -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/css/select2.min.css" rel="stylesheet" />   
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2-bootstrap-theme/0.1.0-beta.10/select2-bootstrap.min.css">
+    <!-- jQuery theme -->
+    <link rel="stylesheet" href="vendor/jquery_ui/jquery-ui.theme.min.css">
+    <link rel="stylesheet" href="vendor/jquery_ui/jquery-ui.structure.min.css">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -103,30 +109,124 @@
                     <h3 class="page-header">Report</h3>
                 </div>
             </div>
-
+            <div class="row">
+                <div class="col-md-3">
+                   <div class="select2-wrapper">
+                    <select id="select2Staff" class="form-control select2-single">
+                     <optgroup label="Staffs">
+                        <option value="CA">Matthew</option>
+                        <option value="NV">John</option>
+                        <option value="OR">Susana</option>
+                        <option value="WA">Christina</option>
+                    </optgroup>
+                </select>
+            </div>
         </div>
-        <!-- /#wrapper -->
+        <div class="col-md-3">
+           <div class="form-group">
+            <input type="email" class="form-control" id="startDate" placeholder="Start Date">
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="form-group">
+            <input type="email" class="form-control" id="endDate" placeholder="End Date">
+        </div>
+    </div>
+    <div class="col-md-3">
+        <a href="#" class="btn btn-primary">Search</a>
+    </div>
+</div> <!-- seach filter -->
 
-        <!-- jQuery -->
-        <script src="vendor/jquery/jquery.min.js"></script>
+<div class="row">
+    <div class="col-md-12">
+           <h4 class="page-header">Report for : Matthew</h4>
+        <div class="panel panel-default">
+            <div class="panel-heading">Leave</div>
+            <div class="panel-body">
+              <table width="100%" class="table table-striped table-hover">
+                  <thead>
+                      <tr>
+                          <th>Type</th>
+                          <th>Duration</th>
+                          <th>Start Date</th>
+                          <th>End Date</th>
+                          <th>Reason</th>
+                      </tr>
+                  </thead>
+                  <tbody>
+                      <tr>
+                          <td>Maternity Leave</td>
+                          <td>2 Days</td>
+                          <td>2018-08-01</td>
+                          <td>2018-08-03</td>
+                          <td>family matter</td>
+                      </tr>
+                       <tr>
+                          <td>Maternity Leave</td>
+                          <td>1 Days</td>
+                          <td>2018-02-01</td>
+                          <td>2018-02-01</td>
+                          <td>no resson</td>
+                      </tr>
+                  </tbody>
+              </table>
+            </div>
+            <div class="panel-footer">
+                <span class="pull-right">
+                    <a href="#" class="btn btn-primary"><i class="fa fa-print fa-fw"></i> Print</a>
+                </span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
 
-        <!-- Bootstrap Core JavaScript -->
-        <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
 
-        <!-- Metis Menu Plugin JavaScript -->
-        <script src="vendor/metisMenu/metisMenu.min.js"></script>
+<!-- /#wrapper -->
 
-        <!-- Morris Charts JavaScript -->
-        <script src="vendor/raphael/raphael.min.js"></script>
-        <script src="vendor/morrisjs/morris.min.js"></script>
-        <script src="data/morris-data.js"></script>
+<!-- jQuery -->
+<script src="vendor/jquery/jquery.min.js"></script>
 
-        <!-- Custom Theme JavaScript -->
-        <script src="dist/js/sb-admin-2.js"></script>
+<!-- jQueryUI -->
+<script type="text/javascript" src="vendor/jquery_ui/jquery-ui.min.js"></script>
+<!-- Bootstrap Core JavaScript -->
+<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
 
-        <!-- Pace page loader -->
-        <script type="text/javascript" src="vendor/pace/pace.min.js"></script>
+<!-- Metis Menu Plugin JavaScript -->
+<script src="vendor/metisMenu/metisMenu.min.js"></script>
 
-    </body>
+<!-- Morris Charts JavaScript -->
+<script src="vendor/raphael/raphael.min.js"></script>
+<script src="vendor/morrisjs/morris.min.js"></script>
+<script src="data/morris-data.js"></script>
 
-    </html>
+<!-- Custom Theme JavaScript -->
+<script src="dist/js/sb-admin-2.js"></script>
+
+<!-- Pace page loader -->
+<script type="text/javascript" src="vendor/pace/pace.min.js"></script>
+
+<!-- Select2 -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/js/select2.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.full.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('#select2Staff').select2({
+          placeholder: "Select a staff",
+          theme: "bootstrap",
+          allowClear: true
+      });     
+    });
+    $(document).ready(function(){
+       $("#startDate").datepicker({
+        inline: true
+    });
+       $('#endDate').datepicker({
+        inline: true
+    })
+   })
+</script>
+</body>
+</html>
