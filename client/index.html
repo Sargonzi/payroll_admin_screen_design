@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Home | Payroll</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Bootstrap Core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- MetisMenu CSS -->
+    <link href="vendor/metisMenu/metisMenu.min.css" rel="stylesheet">
+
+    <!-- Morris Charts CSS -->
+    <link href="vendor/morrisjs/morris.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <!-- Pace Page Loader -->
+    <link rel="stylesheet" href="vendor/pace/themes/blue/pace-theme-loading-bar.css" type="text/css">
+</head>
+<body>
+<nav class="navbar navbar-inverse navbar-static-top" role="navigation" style="margin-bottom: 0">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="index.html">Payroll</a>
+        </div>
+        <div class="collapse navbar-collapse" id="myNavbar">
+            <ul class="nav navbar-nav">
+                <li><a href="profile.html">profile</a></li>
+                <li><a href="salary.html">Salary</a></li>
+                <li><a href="leave.html">Leave</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                        <i class="fa fa-user-circle-o fa-fw"></i> Matthew
+                        <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="#"><i class="fa fa-user fa-fw"></i> Admin</a>
+                        </li>
+                        <li><a href="#"><i class="fa fa-gear fa-fw"></i> Settings</a>
+                        </li>
+                        <li class="divider"></li>
+                        <li><a href="home.html"><i class="fa fa-sign-out fa-fw"></i> Logout</a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container">
+    <div id="page wrapper">
+        <div class="row">
+            <div class="col-lg-12">
+                <h3 class="page-header">Salary Detail</h3>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="row">
+                <div class="col-md-2">
+                    <img src="dist/img/images.jpeg" alt="User Profile" style="height: 150px; width: 150px;">
+                </div>
+                <div class="col-md-6">
+                    <h3>
+                        Matthew
+                        <small class="text-muted">Assistance Lecturer</small>
+                    </h3>
+                    <p><i class="fa fa-phone fa-fw"></i> Phone : <span class="text-muted">+959965279868</span></p>
+                    <p><i class="fa fa-envelope fa-fw"></i> Email : <span class="text-muted">example@gmail.com</span>
+                    </p>
+                    <p><i class="fa fa-map-marker fa-fw"></i> Address : <span class="text-muted">No(10), blah str, blah qtr, blah Township, blah City.</span>
+                    </p>
+                </div>
+                <!-- First -->
+
+                <!--table-->
+                <div class="col-md-4">
+                    <div class="panel panel-primary">
+                        <div class="panel-heading ">
+                            Salary
+                        </div>
+                        <div class="panel-body">
+                            <table class="table table-dark table-hover">
+                                <tbody>
+                                <tr>
+                                    <th>Full Pay:</th>
+                                    <th>300000</th>
+                                    <th>MMKS</th>
+                                </tr>
+                                <tr>
+                                    <td>Actual Pay:</td>
+                                    <td>300000</td>
+                                    <td>MMKS</td>
+                                </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="panel-footer">
+                            <span class="pull-left">
+                                Total salary to get:
+                            </span>
+                            <span class="pull-right">
+                                120000 MMKS
+                            </span>
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <hr class="mt-5">
+    <!--chart-->
+    <div class="row">
+        <div class="col-md-8">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <a href="salary.html">View Detail</a>
+                </div>
+                <div class="panel-body">
+                    <canvas id="myChart"></canvas>
+                </div>
+            </div>
+        </div>
+        <div>
+            <div class="col-md-4">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <a href="leave.html">Leave history</a>
+                    </div>
+                    <div class="panel-body">
+                        <table class="table table-hover table-striped">
+                            <tbody>
+                            <tr>
+                                <th>No</th>
+                                <th>Leave type</th>
+                                <th>Taken</th>
+                            </tr>
+                            <tr>
+                                <td>1</td>
+                                <td>Type One</td>
+                                <td>1</td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>Type Two</td>
+                                <td>4</td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>Type three</td>
+                                <td>5</td>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>Type Four</td>
+                                <td>9</td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- jQuery -->
+<script src="vendor/jquery/jquery.min.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+<!-- Metis Menu Plugin JavaScript -->
+<script src="vendor/metisMenu/metisMenu.min.js"></script>
+
+<!-- Morris Charts JavaScript -->
+<script src="vendor/raphael/raphael.min.js"></script>
+<script src="vendor/morrisjs/morris.min.js"></script>
+<script src="data/morris-data.js"></script>
+
+
+<!-- DataTables JavaScript -->
+<script src="vendor/datatables/js/jquery.dataTables.min.js"></script>
+<script src="vendor/datatables-plugins/dataTables.bootstrap.min.js"></script>
+<script src="vendor/datatables-responsive/dataTables.responsive.js"></script>
+
+<!-- Sweet alert -->
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="dist/js/sb-admin-2.js"></script>
+
+<!-- Pace page loader -->
+<script type="text/javascript" src="vendor/pace/pace.min.js"></script>
+<!-- Chart Js -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
+
+<script type="text/javascript">
+    var ctx = document.getElementById('myChart').getContext('2d');
+    var chart = new Chart(ctx, {
+        // The type of chart we want to create
+        type: 'bar',
+
+        // The data for our dataset
+        data: {
+            labels: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+            datasets: [{
+                label: "Salary",
+                backgroundColor: [
+                    'rgba(255, 99, 132, 0.2)',
+                    'rgba(54, 162, 235, 0.2)',
+                    'rgba(255, 206, 86, 0.2)',
+                    'rgba(75, 192, 192, 0.2)',
+                    'rgba(153, 102, 255, 0.2)',
+                    'rgba(255, 159, 64, 0.2)',
+                    'rgba(255, 99, 132, 0.2)',
+                    'rgba(54, 162, 235, 0.2)',
+                    'rgba(255, 206, 86, 0.2)',
+                    'rgba(75, 192, 192, 0.2)',
+                    'rgba(153, 102, 255, 0.2)',
+                    'rgba(255, 159, 64, 0.2)'
+
+
+                ],
+                borderColor: [
+                    'rgba(255,99,132,1)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)',
+                    'rgba(255,99,132,1)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)'
+
+                ],
+                data: [100000, 300000, 250000, 200000, 300000, 350000, 400000, 300000, 500000, 400000, 200000, 600000, 400000]
+            }]
+        },
+
+        // Configuration options go here
+        options: {
+            scales: {
+                yAxes: [
+                    {
+                        ticks: {
+                            beginAtZero: true
+                        }
+                    }]
+            }
+        }
+    });
+</script>
+
+
+</body>
+</html>

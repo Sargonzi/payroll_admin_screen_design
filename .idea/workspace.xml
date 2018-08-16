@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="156b34cd-b3e6-4255-a401-7f8a672d420d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/payroll.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/dist/css/payroll.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/dist/img/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/dist/img/img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/dist/img/img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/leave.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/bootstrap-social/bootstrap-social.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/bootstrap-social/bootstrap-social.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/bootstrap-social/bootstrap-social.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables-plugins/dataTables.bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables-plugins/dataTables.bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables-plugins/dataTables.bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables-plugins/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables-responsive/dataTables.responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables-responsive/dataTables.responsive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables-responsive/dataTables.responsive.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/css/dataTables.bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/css/dataTables.bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/css/dataTables.bootstrap4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/css/dataTables.bootstrap4.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/css/dataTables.foundation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/css/dataTables.foundation.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/css/dataTables.jqueryui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/css/dataTables.jqueryui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/css/dataTables.material.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/css/dataTables.material.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/css/dataTables.semanticui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/css/dataTables.semanticui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/css/dataTables.uikit.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/css/dataTables.uikit.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/css/jquery.dataTables.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/css/jquery.dataTables.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/css/jquery.dataTables_themeroller.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/images/Sorting icons.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/images/sort_asc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/images/sort_asc_disabled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/images/sort_both.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/images/sort_desc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/images/sort_desc_disabled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/js/dataTables.bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/js/dataTables.bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/js/dataTables.bootstrap4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/js/dataTables.bootstrap4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/js/dataTables.foundation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/js/dataTables.foundation.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/js/dataTables.jqueryui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/js/dataTables.jqueryui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/js/dataTables.material.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/js/dataTables.material.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/js/dataTables.semanticui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/js/dataTables.semanticui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/js/dataTables.uikit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/js/dataTables.uikit.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/js/jquery.dataTables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/js/jquery.dataTables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/datatables/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/flot-tooltip/jquery.flot.tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/flot-tooltip/jquery.flot.tooltip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/flot-tooltip/jquery.flot.tooltip.source.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/flot/excanvas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/flot/excanvas.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/flot/jquery.colorhelpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/flot/jquery.flot.canvas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/flot/jquery.flot.categories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/flot/jquery.flot.crosshair.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/flot/jquery.flot.errorbars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/flot/jquery.flot.fillbetween.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/flot/jquery.flot.image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/flot/jquery.flot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/flot/jquery.flot.navigate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/flot/jquery.flot.pie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/flot/jquery.flot.resize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/flot/jquery.flot.selection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/flot/jquery.flot.stack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/flot/jquery.flot.symbol.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/flot/jquery.flot.threshold.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/flot/jquery.flot.time.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/flot/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/jquery_ui/AUTHORS.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/jquery_ui/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/jquery_ui/external/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/jquery_ui/images/ui-icons_444444_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/jquery_ui/images/ui-icons_555555_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/jquery_ui/images/ui-icons_777620_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/jquery_ui/images/ui-icons_777777_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/jquery_ui/images/ui-icons_cc0000_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/jquery_ui/images/ui-icons_ffffff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/jquery_ui/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/jquery_ui/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/jquery_ui/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/jquery_ui/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/jquery_ui/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/jquery_ui/jquery-ui.structure.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/jquery_ui/jquery-ui.structure.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/jquery_ui/jquery-ui.theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/jquery_ui/jquery-ui.theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/jquery_ui/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/metisMenu/metisMenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/metisMenu/metisMenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/metisMenu/metisMenu.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/metisMenu/metisMenu.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/morrisjs/morris.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/morrisjs/morris.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/morrisjs/morris.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/install.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/pace.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/pace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/pace.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/black/pace-theme-barber-shop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/black/pace-theme-big-counter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/black/pace-theme-bounce.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/black/pace-theme-center-atom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/black/pace-theme-center-circle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/black/pace-theme-center-radar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/black/pace-theme-center-simple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/black/pace-theme-corner-indicator.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/black/pace-theme-fill-left.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/black/pace-theme-flash.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/black/pace-theme-flat-top.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/black/pace-theme-loading-bar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/black/pace-theme-mac-osx.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/black/pace-theme-minimal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/blue/pace-theme-barber-shop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/blue/pace-theme-big-counter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/blue/pace-theme-bounce.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/blue/pace-theme-center-atom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/blue/pace-theme-center-circle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/blue/pace-theme-center-radar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/blue/pace-theme-center-simple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/blue/pace-theme-corner-indicator.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/blue/pace-theme-fill-left.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/blue/pace-theme-flash.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/blue/pace-theme-flat-top.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/blue/pace-theme-loading-bar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/blue/pace-theme-mac-osx.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/blue/pace-theme-minimal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/green/pace-theme-barber-shop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/green/pace-theme-big-counter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/green/pace-theme-bounce.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/green/pace-theme-center-atom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/green/pace-theme-center-circle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/green/pace-theme-center-radar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/green/pace-theme-center-simple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/green/pace-theme-corner-indicator.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/green/pace-theme-fill-left.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/green/pace-theme-flash.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/green/pace-theme-flat-top.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/green/pace-theme-loading-bar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/green/pace-theme-mac-osx.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/green/pace-theme-minimal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/orange/pace-theme-barber-shop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/orange/pace-theme-big-counter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/orange/pace-theme-bounce.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/orange/pace-theme-center-atom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/orange/pace-theme-center-circle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/orange/pace-theme-center-radar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/orange/pace-theme-center-simple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/orange/pace-theme-corner-indicator.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/orange/pace-theme-fill-left.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/orange/pace-theme-flash.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/orange/pace-theme-flat-top.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/orange/pace-theme-loading-bar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/orange/pace-theme-mac-osx.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/orange/pace-theme-minimal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/pink/pace-theme-barber-shop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/pink/pace-theme-big-counter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/pink/pace-theme-bounce.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/pink/pace-theme-center-atom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/pink/pace-theme-center-circle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/pink/pace-theme-center-radar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/pink/pace-theme-center-simple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/pink/pace-theme-corner-indicator.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/pink/pace-theme-fill-left.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/pink/pace-theme-flash.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/pink/pace-theme-flat-top.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/pink/pace-theme-loading-bar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/pink/pace-theme-mac-osx.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/pink/pace-theme-minimal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/purple/pace-theme-barber-shop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/purple/pace-theme-big-counter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/purple/pace-theme-bounce.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/purple/pace-theme-center-atom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/purple/pace-theme-center-circle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/purple/pace-theme-center-radar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/purple/pace-theme-center-simple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/purple/pace-theme-corner-indicator.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/purple/pace-theme-fill-left.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/purple/pace-theme-flash.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/purple/pace-theme-flat-top.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/purple/pace-theme-loading-bar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/purple/pace-theme-mac-osx.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/purple/pace-theme-minimal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/red/pace-theme-barber-shop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/red/pace-theme-big-counter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/red/pace-theme-bounce.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/red/pace-theme-center-atom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/red/pace-theme-center-circle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/red/pace-theme-center-radar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/red/pace-theme-center-simple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/red/pace-theme-corner-indicator.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/red/pace-theme-fill-left.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/red/pace-theme-flash.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/red/pace-theme-flat-top.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/red/pace-theme-loading-bar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/red/pace-theme-mac-osx.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/red/pace-theme-minimal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/silver/pace-theme-barber-shop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/silver/pace-theme-big-counter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/silver/pace-theme-bounce.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/silver/pace-theme-center-atom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/silver/pace-theme-center-circle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/silver/pace-theme-center-radar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/silver/pace-theme-center-simple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/silver/pace-theme-corner-indicator.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/silver/pace-theme-fill-left.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/silver/pace-theme-flash.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/silver/pace-theme-flat-top.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/silver/pace-theme-loading-bar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/silver/pace-theme-mac-osx.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/silver/pace-theme-minimal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/white/pace-theme-barber-shop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/white/pace-theme-big-counter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/white/pace-theme-bounce.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/white/pace-theme-center-atom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/white/pace-theme-center-circle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/white/pace-theme-center-radar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/white/pace-theme-center-simple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/white/pace-theme-corner-indicator.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/white/pace-theme-fill-left.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/white/pace-theme-flash.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/white/pace-theme-flat-top.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/white/pace-theme-loading-bar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/white/pace-theme-mac-osx.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/white/pace-theme-minimal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/yellow/pace-theme-barber-shop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/yellow/pace-theme-big-counter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/yellow/pace-theme-bounce.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/yellow/pace-theme-center-atom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/yellow/pace-theme-center-circle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/yellow/pace-theme-center-radar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/yellow/pace-theme-center-simple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/yellow/pace-theme-corner-indicator.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/yellow/pace-theme-fill-left.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/yellow/pace-theme-flash.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/yellow/pace-theme-flat-top.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/yellow/pace-theme-loading-bar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/yellow/pace-theme-mac-osx.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/pace/themes/yellow/pace-theme-minimal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/raphael/raphael.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/vendor/raphael/raphael.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/sb-admin-2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/sb-admin-2.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/images.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/sb-admin-2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/sb-admin-2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/salary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/salaryDetail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staff.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staffDetail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staffNew.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap-social/bootstrap-social.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap-social/bootstrap-social.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap-social/bootstrap-social.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables-plugins/dataTables.bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables-plugins/dataTables.bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables-plugins/dataTables.bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables-plugins/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables-responsive/dataTables.responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables-responsive/dataTables.responsive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables-responsive/dataTables.responsive.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/css/dataTables.bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/css/dataTables.bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/css/dataTables.bootstrap4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/css/dataTables.bootstrap4.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/css/dataTables.foundation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/css/dataTables.foundation.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/css/dataTables.jqueryui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/css/dataTables.jqueryui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/css/dataTables.material.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/css/dataTables.material.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/css/dataTables.semanticui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/css/dataTables.semanticui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/css/dataTables.uikit.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/css/dataTables.uikit.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/css/jquery.dataTables.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/css/jquery.dataTables.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/css/jquery.dataTables_themeroller.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/images/Sorting icons.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/images/sort_asc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/images/sort_asc_disabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/images/sort_both.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/images/sort_desc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/images/sort_desc_disabled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/js/dataTables.bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/js/dataTables.bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/js/dataTables.bootstrap4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/js/dataTables.bootstrap4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/js/dataTables.foundation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/js/dataTables.foundation.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/js/dataTables.jqueryui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/js/dataTables.jqueryui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/js/dataTables.material.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/js/dataTables.material.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/js/dataTables.semanticui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/js/dataTables.semanticui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/js/dataTables.uikit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/js/dataTables.uikit.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/js/jquery.dataTables.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/js/jquery.dataTables.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/datatables/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/flot-tooltip/jquery.flot.tooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/flot-tooltip/jquery.flot.tooltip.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/flot-tooltip/jquery.flot.tooltip.source.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/flot/excanvas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/flot/excanvas.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/flot/jquery.colorhelpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/flot/jquery.flot.canvas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/flot/jquery.flot.categories.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/flot/jquery.flot.crosshair.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/flot/jquery.flot.errorbars.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/flot/jquery.flot.fillbetween.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/flot/jquery.flot.image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/flot/jquery.flot.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/flot/jquery.flot.navigate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/flot/jquery.flot.pie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/flot/jquery.flot.resize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/flot/jquery.flot.selection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/flot/jquery.flot.stack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/flot/jquery.flot.symbol.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/flot/jquery.flot.threshold.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/flot/jquery.flot.time.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/flot/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/HELP-US-OUT.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/css/font-awesome.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/animated.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/bordered-pulled.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/core.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/extras.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/fixed-width.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/font-awesome.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/icons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/larger.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/list.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/path.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/rotated-flipped.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/screen-reader.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/spinning.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/stacked.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/less/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_animated.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_bordered-pulled.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_extras.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_fixed-width.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_larger.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_path.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_rotated-flipped.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_spinning.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_stacked.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/font-awesome/scss/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery_ui/AUTHORS.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery_ui/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery_ui/external/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery_ui/images/ui-icons_444444_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery_ui/images/ui-icons_555555_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery_ui/images/ui-icons_777620_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery_ui/images/ui-icons_777777_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery_ui/images/ui-icons_cc0000_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery_ui/images/ui-icons_ffffff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery_ui/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery_ui/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery_ui/jquery-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery_ui/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery_ui/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery_ui/jquery-ui.structure.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery_ui/jquery-ui.structure.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery_ui/jquery-ui.theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery_ui/jquery-ui.theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/jquery_ui/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/metisMenu/metisMenu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/metisMenu/metisMenu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/metisMenu/metisMenu.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/metisMenu/metisMenu.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/morrisjs/morris.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/morrisjs/morris.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/morrisjs/morris.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/.bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/install.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/pace.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/pace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/pace.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/black/pace-theme-barber-shop.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/black/pace-theme-big-counter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/black/pace-theme-bounce.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/black/pace-theme-center-atom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/black/pace-theme-center-circle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/black/pace-theme-center-radar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/black/pace-theme-center-simple.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/black/pace-theme-corner-indicator.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/black/pace-theme-fill-left.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/black/pace-theme-flash.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/black/pace-theme-flat-top.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/black/pace-theme-loading-bar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/black/pace-theme-mac-osx.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/black/pace-theme-minimal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/blue/pace-theme-barber-shop.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/blue/pace-theme-big-counter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/blue/pace-theme-bounce.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/blue/pace-theme-center-atom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/blue/pace-theme-center-circle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/blue/pace-theme-center-radar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/blue/pace-theme-center-simple.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/blue/pace-theme-corner-indicator.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/blue/pace-theme-fill-left.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/blue/pace-theme-flash.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/blue/pace-theme-flat-top.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/blue/pace-theme-loading-bar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/blue/pace-theme-mac-osx.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/blue/pace-theme-minimal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/green/pace-theme-barber-shop.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/green/pace-theme-big-counter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/green/pace-theme-bounce.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/green/pace-theme-center-atom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/green/pace-theme-center-circle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/green/pace-theme-center-radar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/green/pace-theme-center-simple.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/green/pace-theme-corner-indicator.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/green/pace-theme-fill-left.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/green/pace-theme-flash.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/green/pace-theme-flat-top.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/green/pace-theme-loading-bar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/green/pace-theme-mac-osx.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/green/pace-theme-minimal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/orange/pace-theme-barber-shop.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/orange/pace-theme-big-counter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/orange/pace-theme-bounce.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/orange/pace-theme-center-atom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/orange/pace-theme-center-circle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/orange/pace-theme-center-radar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/orange/pace-theme-center-simple.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/orange/pace-theme-corner-indicator.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/orange/pace-theme-fill-left.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/orange/pace-theme-flash.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/orange/pace-theme-flat-top.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/orange/pace-theme-loading-bar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/orange/pace-theme-mac-osx.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/orange/pace-theme-minimal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/pink/pace-theme-barber-shop.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/pink/pace-theme-big-counter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/pink/pace-theme-bounce.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/pink/pace-theme-center-atom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/pink/pace-theme-center-circle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/pink/pace-theme-center-radar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/pink/pace-theme-center-simple.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/pink/pace-theme-corner-indicator.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/pink/pace-theme-fill-left.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/pink/pace-theme-flash.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/pink/pace-theme-flat-top.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/pink/pace-theme-loading-bar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/pink/pace-theme-mac-osx.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/pink/pace-theme-minimal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/purple/pace-theme-barber-shop.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/purple/pace-theme-big-counter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/purple/pace-theme-bounce.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/purple/pace-theme-center-atom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/purple/pace-theme-center-circle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/purple/pace-theme-center-radar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/purple/pace-theme-center-simple.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/purple/pace-theme-corner-indicator.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/purple/pace-theme-fill-left.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/purple/pace-theme-flash.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/purple/pace-theme-flat-top.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/purple/pace-theme-loading-bar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/purple/pace-theme-mac-osx.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/purple/pace-theme-minimal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/red/pace-theme-barber-shop.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/red/pace-theme-big-counter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/red/pace-theme-bounce.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/red/pace-theme-center-atom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/red/pace-theme-center-circle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/red/pace-theme-center-radar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/red/pace-theme-center-simple.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/red/pace-theme-corner-indicator.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/red/pace-theme-fill-left.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/red/pace-theme-flash.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/red/pace-theme-flat-top.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/red/pace-theme-loading-bar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/red/pace-theme-mac-osx.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/red/pace-theme-minimal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/silver/pace-theme-barber-shop.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/silver/pace-theme-big-counter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/silver/pace-theme-bounce.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/silver/pace-theme-center-atom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/silver/pace-theme-center-circle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/silver/pace-theme-center-radar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/silver/pace-theme-center-simple.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/silver/pace-theme-corner-indicator.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/silver/pace-theme-fill-left.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/silver/pace-theme-flash.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/silver/pace-theme-flat-top.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/silver/pace-theme-loading-bar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/silver/pace-theme-mac-osx.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/silver/pace-theme-minimal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/white/pace-theme-barber-shop.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/white/pace-theme-big-counter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/white/pace-theme-bounce.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/white/pace-theme-center-atom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/white/pace-theme-center-circle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/white/pace-theme-center-radar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/white/pace-theme-center-simple.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/white/pace-theme-corner-indicator.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/white/pace-theme-fill-left.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/white/pace-theme-flash.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/white/pace-theme-flat-top.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/white/pace-theme-loading-bar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/white/pace-theme-mac-osx.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/white/pace-theme-minimal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/yellow/pace-theme-barber-shop.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/yellow/pace-theme-big-counter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/yellow/pace-theme-bounce.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/yellow/pace-theme-center-atom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/yellow/pace-theme-center-circle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/yellow/pace-theme-center-radar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/yellow/pace-theme-center-simple.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/yellow/pace-theme-corner-indicator.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/yellow/pace-theme-fill-left.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/yellow/pace-theme-flash.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/yellow/pace-theme-flat-top.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/yellow/pace-theme-loading-bar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/yellow/pace-theme-mac-osx.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/pace/themes/yellow/pace-theme-minimal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/raphael/raphael.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/raphael/raphael.min.js" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2076536485">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="4" />
+          <entry key="html" value="23" />
+          <entry key="js" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="4" />
+          <entry key="HTML" value="23" />
+          <entry key="JavaScript" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="312" />
+          <entry key="html" value="1912" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="312" />
+          <entry key="HTML" value="1912" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="411">
+              <caret line="43" column="31" selection-start-line="38" selection-start-column="11" selection-end-line="53" selection-end-column="17" />
+              <folding>
+                <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="69" column="25" lean-forward="true" selection-start-line="63" selection-start-column="19" selection-end-line="69" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="530">
+              <caret line="65" column="10" lean-forward="true" selection-start-line="36" selection-start-column="3" selection-end-line="65" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/leave.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="386">
+              <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+              <folding>
+                <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+              <folding>
+                <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/register.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="29" column="51" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
+              <folding>
+                <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="33" column="46" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="46" />
+              <folding>
+                <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/forgetPassword.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/salary.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2141">
+              <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+              <folding>
+                <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/profile.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="502">
+              <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
+              <folding>
+                <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/report.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/client/dist/css/payroll.css" />
+        <option value="$PROJECT_DIR$/client/dist/js/payroll.js" />
+        <option value="$PROJECT_DIR$/client/register.html" />
+        <option value="$PROJECT_DIR$/client/home.html" />
+        <option value="$PROJECT_DIR$/client/forgetPassword.html" />
+        <option value="$PROJECT_DIR$/client/login.html" />
+        <option value="$PROJECT_DIR$/client/index.html" />
+        <option value="$PROJECT_DIR$/client/leave.html" />
+        <option value="$PROJECT_DIR$/client/profile.html" />
+        <option value="$PROJECT_DIR$/client/salary.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/admin/vendor/jquery_ui/package.json" />
+      <path value="$PROJECT_DIR$/client/vendor/jquery_ui/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="payroll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="payroll" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="payroll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="payroll" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="payroll" type="b2602c69:ProjectViewProjectNode" />
+              <item name="payroll" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/admin/vendor" />
+      <recent name="$PROJECT_DIR$/client/vendor" />
+      <recent name="$PROJECT_DIR$/client" />
+      <recent name="$PROJECT_DIR$/client/dist/img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/payroll/index.html">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="156b34cd-b3e6-4255-a401-7f8a672d420d" name="Default Changelist" comment="" />
+      <created>1534261204128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534261204128</updated>
+      <workItem from="1534261205577" duration="66000" />
+      <workItem from="1534291546097" duration="1386000" />
+      <workItem from="1534302435514" duration="10849000" />
+      <workItem from="1534389355468" duration="1634000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13935000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19313304" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.4049505" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/client/vendor/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/vendor/bootstrap/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/dist/css/payroll.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/salary.html" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/salaryDetail.html" />
+    <entry file="file://$PROJECT_DIR$/report.html" />
+    <entry file="file://$PROJECT_DIR$/client/dist/js/payroll.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/staffDetail.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/salaryDetail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="113" column="67" lean-forward="true" selection-start-line="113" selection-start-column="67" selection-end-line="113" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/vendor/font-awesome/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/vendor/font-awesome/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/salary.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="243" column="30" lean-forward="true" selection-start-line="243" selection-start-column="15" selection-end-line="243" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/forgetPassword.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="33" column="46" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="46" />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="65" column="10" lean-forward="true" selection-start-line="36" selection-start-column="3" selection-end-line="65" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="69" column="25" lean-forward="true" selection-start-line="63" selection-start-column="19" selection-end-line="69" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/leave.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="51" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="43" column="31" selection-start-line="38" selection-start-column="11" selection-end-line="53" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/salary.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2141">
+          <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
